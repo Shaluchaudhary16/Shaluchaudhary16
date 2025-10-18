@@ -19,13 +19,11 @@
 
 <h3>📱 Connect with me</h3>
 <p>
-  <a href="https://instagram.com/___shalu_chaudhary___" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
+  <a href="https://www.linkedin.com/in/shalu-kumari-069769284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/Shaluchaudhary16" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
-  </a>
+
 </p>
 
 ---
